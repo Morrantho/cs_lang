@@ -1,0 +1,10 @@
+/home/tony/Documents/code/C#/fundamentals/test/bin/Debug/netcoreapp2.0/test.deps.json
+/home/tony/Documents/code/C#/fundamentals/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.json
+/home/tony/Documents/code/C#/fundamentals/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.dev.json
+/home/tony/Documents/code/C#/fundamentals/test/bin/Debug/netcoreapp2.0/test.dll
+/home/tony/Documents/code/C#/fundamentals/test/bin/Debug/netcoreapp2.0/test.pdb
+/home/tony/Documents/code/C#/fundamentals/test/obj/Debug/netcoreapp2.0/test.csproj.CoreCompileInputs.cache
+/home/tony/Documents/code/C#/fundamentals/test/obj/Debug/netcoreapp2.0/test.AssemblyInfoInputs.cache
+/home/tony/Documents/code/C#/fundamentals/test/obj/Debug/netcoreapp2.0/test.AssemblyInfo.cs
+/home/tony/Documents/code/C#/fundamentals/test/obj/Debug/netcoreapp2.0/test.dll
+/home/tony/Documents/code/C#/fundamentals/test/obj/Debug/netcoreapp2.0/test.pdb
